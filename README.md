@@ -1,2 +1,2 @@
 # mailbox-management-system
-A client-server application for mailbox management
+A Two-tier Architecture client-server application for mailbox management
