@@ -4,11 +4,11 @@ A Two-tier Architecture database system for mailbox management.
 # Architecture
 
 **Function flow chart**
-
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/diagram/function%20flow%20chart.png)
 **Data flow chart**
-
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/diagram/data%20flow%20chart.png)
 **ERD**
-
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/diagram/er%20model.png)
 
 
 
