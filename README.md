@@ -5,10 +5,28 @@ A Two-tier Architecture database system for mailbox management.
 
 
 Choose input image.<br />
-![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo1.png)<br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-1.png
+)<br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-2.png
+)<br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-3.png
+)<br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-4.png
+)<br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-5.png
+)<br />
 
 Application would show FFT result. Also you can select filter and change parameters.<br />
-![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo2.png)<br /><br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-1.png
+)<br /><br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-2.png
+)<br /><br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-3.png
+)<br /><br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-4.png
+)<br /><br />
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-5.png
+)<br /><br />
 
 
 # Features
