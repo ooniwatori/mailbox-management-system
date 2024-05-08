@@ -1,8 +1,18 @@
 # Mailbox management system
 A Two-tier Architecture database system for mailbox management.
 
-# DEMO
+# Architecture
 
+**Function flow chart**
+
+**Data flow chart**
+
+**ERD**
+
+
+
+
+# DEMO
 
 Choose input image.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-1.png
