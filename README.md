@@ -19,7 +19,7 @@ Choose input image.<br />
 Application would show FFT result. Also you can select filter and change parameters.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-1.png
 )<br /><br />
-![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-5.png
+![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-2.png
 )<br /><br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-3.png
 )<br /><br />
