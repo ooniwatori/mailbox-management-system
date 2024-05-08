@@ -14,7 +14,8 @@ A Two-tier Architecture database system for mailbox management.
 
 # DEMO
 
-Choose input image.<br />
+**Server**
+
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-1.png
 )<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-2.png
@@ -26,6 +27,7 @@ Choose input image.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-5.png
 )<br />
 
+**Client**
 Application would show FFT result. Also you can select filter and change parameters.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-1.png
 )<br /><br />
