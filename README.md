@@ -15,26 +15,33 @@ A Two-tier Architecture database system for mailbox management.
 # DEMO
 
 **Server**
-
+<br />You can login by your account with password if exist in database.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-1.png
 )<br />
+<br />Or you can sign up a new account. System will check your input by database.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-2.png
 )<br />
+<br />In main menu, you can check which mail was received or not yet. Or record new mail.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-3.png
 )<br />
+<br />If residents forgot there password, you can reset them to default.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-4.png
 )<br />
+<br />If any resident want to take there mail, you can process that. <br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo1/demo1-5.png
 )<br />
 
 **Client**
-Application would show FFT result. Also you can select filter and change parameters.<br />
+<br />Resident can login by existed account with default value.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-1.png
-)<br /><br />
+)<br />
+<br />After login, resident can change there password in anytime.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-2.png
-)<br /><br />
+)<br />
+<br />Resident can check any date which has any mail receive at.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-3.png
 )<br /><br />
+Resident can receive mail in anytime, admin also know that.<br />
 ![image](https://github.com/ooniwatori/mailbox-management-system/blob/main/demo2/demo2-4.png
 )<br /><br />
 
@@ -48,6 +55,6 @@ System can fully support admin to record and manage mails.
 
 # Environments 
 
-* Language Java SDK 17.0.1
+* Language C++, MySQL
 * Compiler [Eclipse](https://www.eclipse.org/).
 * OS Microsoft Windows10 pro
