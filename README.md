@@ -40,7 +40,9 @@ Application would show FFT result. Also you can select filter and change paramet
 
 # Features
 
-Application can apply 2DFFT on image data. Also can apply filtering in frequency domain then show filtering result.
+System can improve traditional mailbox management. Admin can input information of mail to record by database.
+Also residents can use application to know wheather they have new mail or not.
+System can fully support admin to record and manage mails. 
 
 # Environments 
 
