@@ -56,5 +56,5 @@ System can fully support admin to record and manage mails.
 # Environments 
 
 * Language C++, MySQL
-* Compiler [Eclipse](https://www.eclipse.org/).
-* OS Microsoft Windows10 pro
+* Compiler [Qt Creator 8.0.2(Community)](https://www.qt.io/), [MySQL WorkBench](https://www.mysql.com/products/workbench/).
+* OS Microsoft Windows10 pro, Android 13
