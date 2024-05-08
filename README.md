@@ -1,5 +1,5 @@
 # Mailbox management system
-A Two-tier Architecture client-server application for mailbox management.
+A Two-tier Architecture database system for mailbox management.
 
 # DEMO
 
